@@ -628,6 +628,7 @@ header {
     width: 28px;
     height: 28px;
     border-radius: 3px;
+    background: #f9f9f9;
 }
 
 .footer .social-link:first-child {
